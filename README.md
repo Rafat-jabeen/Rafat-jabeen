@@ -1,4 +1,4 @@
-![MasterHead](https://img-blog.csdnimg.cn/c097f797788948b683605ccb7c9a7827.jpg) 
+![MasterHead](https://miro.medium.com/v2/resize:fit:3800/1*D2NgKZ1T7LYXrFPAXnorTg.jpeg) 
 <h1 align="center">Hi 👋, I'm Rafat Jabeen</h1>
 <h3 align="center">UnderGrad Computer Science student</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/iviIq2uXz-kAAAAi/work-office.gif">
